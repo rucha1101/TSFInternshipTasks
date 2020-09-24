@@ -41,3 +41,5 @@ Dataset:
 https://drive.google.com/file/d/1lV7is1B566UQPYzzY8R2ZmOritTW299S/view
 GitHub Link: https://github.com/shreyaskhadse/TSFInternshipTasks/blob/master/task_5_Business_Analytics.ipynb
 
+## Videos Link
+https://drive.google.com/drive/folders/1Auu2-G1UoMaXC4k5cRa0uDwNEMyqkJDY?usp=sharing
